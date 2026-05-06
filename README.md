@@ -44,7 +44,8 @@ Focused on **hardware-software integration**, rapid prototyping, and scalable sy
 
 ### 🏆 Highlights
 - 🥇 Pitch Point 4.0 Special Award Winner (Team Lead)  
-- Multiple national-level hackathon participations  
+- Multiple national-level hackathon participations (Solo)
+- Top 250 Finish- EliteHer National Hackathon (Solo) 
 - NPTEL Certified in Robotics , Wheeled Mobile Robotics and Sensors and Actuators 
 
 ---
