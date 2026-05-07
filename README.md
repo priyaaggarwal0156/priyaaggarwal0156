@@ -1,68 +1,99 @@
-<h1 align="center">Priya Aggarwal</h1>
-<p align="center">
-  Embedded Systems • IoT • Robotics • Real-Time Engineering
-</p>
-
----
-
-I build **real-world embedded systems** that combine sensors, microcontrollers, and intelligent logic to solve practical problems.
-
-Focused on **hardware-software integration**, rapid prototyping, and scalable system design.
-
----
-
-### ⚡ What I Work On
-- Embedded Systems & IoT  
-- Sensor Interfacing & Automation  
-- Real-Time Monitoring Systems  
-- Robotics & Control  
-
----
-
-### 🛠 Tech
-<p>
-  <img src="https://img.shields.io/badge/C-222222?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-222222?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C++-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Python-222222?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-222222?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Blynk-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Git-222222?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🚀 Selected Builds
-- **Smart Radar System** → Real-time object detection along with Visualization  
-- **Proxy-Proof Attendance System** → Multi-sensor authentication logic  
-- **IoT Weather Station** → Live Environmental Monitoring (ESP32 + Blynk)  
-- **Smart Door Lock** → Safety-focused Embedded system with gas detection  
-- **Line Follower Robot** → Autonomous Navigation System  
-
----
-
-### 🏆 Highlights
-- 🥇 Pitch Point 4.0 Special Award Winner (Team Lead)  
-- Multiple national-level hackathon participations (Solo)
-- Top 250 Finish- EliteHer National Hackathon (Solo) 
-- NPTEL Certified in Robotics , Wheeled Mobile Robotics and Sensors and Actuators 
-
----
-
-### 📊 GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&hide_border=true" height="150"/>
+
+# Priya Aggarwal
+
+### Embedded Systems • IoT • Robotics • Real-Time Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+real-world+embedded+systems;IoT+%7C+Sensors+%7C+Automation;Turning+ideas+into+working+hardware;Engineering+systems+that+solve+problems" />
+
 </div>
 
 ---
 
-### 📫 Connect
-- 📧 priyaggarwal0156@gmail.com  
-- 🔗 linkedin.com/in/priya-aggarwal-8a9130304  
+## ⚡ About Me
+
+- 🔧 Building embedded systems using Arduino & ESP32  
+- 🤖 Interested in robotics, automation & intelligent systems  
+- ⚡ Focused on real-world engineering solutions  
+- 🏆 National level Hackathons enthusiast & team leader  
+- 📚 Learning through projects, experimentation & innovation  
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,javascript" />
+</p>
+
+### Embedded & Hardware
+- ESP32  
+- Arduino  
+- Embedded C++  
+- Sensor Interfacing  
+- IoT Systems  
+- Real-Time Monitoring  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Radar System
+Real-time object detection system using ultrasonic sensors, servo scanning & live visualization.
+
+### 🔹 Smart Attendance System
+Multi-sensor authentication system designed to prevent proxy attendance.
+
+### 🔹 IoT Weather Monitoring System
+ESP32 + Blynk powered weather station for environmental monitoring.
+
+### 🔹 Smart Door Lock
+Embedded security system with keypad authentication & gas safety integration.
+
+### 🔹 Line Follower Robot
+Autonomous robotic navigation system using IR sensors.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Special Award Winner — Pitch Point 4.0 (Team Lead)  
+- 🚀 Top 250 / 920+ Teams — EliteHer National Hackathon (Solo)  
+- 💡 SIH Participant (Team Leader)- Internal Round qualified 
+- 📜 NPTEL Certified in Robotics, Wheeled Mobile Robotics and Sensors & Actuators  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/priya-aggarwal-8a9130304">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:priyaggarwal0156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
 ### ⚙️ Philosophy
-Build systems that **work in the real world — not just on paper.**
+
+*"Build systems that work beyond simulations."*
+
+</div>
