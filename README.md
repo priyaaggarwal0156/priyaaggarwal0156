@@ -68,11 +68,12 @@ Autonomous robotic navigation system using IR sensors.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyaaggarwal0156&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyaaggarwal0156&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaaggarwal0156&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaaggarwal0156&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
+
 
 ---
 
