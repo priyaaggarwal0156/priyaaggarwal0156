@@ -72,10 +72,6 @@ Autonomous robotic navigation system using IR sensors.
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
 
 </div>
