@@ -64,19 +64,19 @@ Autonomous robotic navigation system using IR sensors.
 
 ---
 
-# ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyaaggarwal0156&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyaaggarwal0156&theme=tokyonight" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaaggarwal0156&theme=tokyonight&hide_border=true" />
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaaggarwal0156&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyaaggarwal0156&theme=tokyonight" width="32%" />
 
 </div>
 
