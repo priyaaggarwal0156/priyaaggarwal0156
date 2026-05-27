@@ -58,7 +58,7 @@ Autonomous robotic navigation system using IR sensors.
 ## 🏆 Achievements
 
 - 🥇 Special Award Winner — Pitch Point 4.0 (Team Lead)  
-- 🚀 Top 250 / 920+ Teams — EliteHer National Hackathon (Solo)  
+- 🚀 Top 250 / 900+ Teams — EliteHer National Hackathon (Solo)  
 - 💡 SIH Participant (Team Leader)- Internal Round qualified 
 - 📜 NPTEL Certified in Robotics, Wheeled Mobile Robotics and Sensors & Actuators  
 
