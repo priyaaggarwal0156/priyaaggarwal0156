@@ -82,15 +82,14 @@ Autonomous robotic navigation system using IR sensors.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/priya-aggarwal-8a9130304">
+  <a href="https://www.linkedin.com/in/priya-aggarwal-8a9130304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:priyaggarwal0156@gmail.com">
+  <a href="mailto:priyaggarwal0156@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <div align="center">
