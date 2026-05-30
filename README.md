@@ -32,7 +32,7 @@
 
 🏆 **1st Place** IoT Enigma · **NPTEL Elite** IIT KGP · IISc · IIT Madras
 
-🚀 **13+ real-world hardware projects** built & deployed
+🚀 **10+ real-world hardware projects** built & deployed
 
 ✨ **Superpower:** Turning datasheets into working hardware
 
