@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1F497D,100:0d1117&height=280&section=header&text=Priya%20Aggarwal&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=I%20don%27t%20just%20code%20%E2%80%94%20I%20build%20things%20that%20breathe.&descAlignY=62&descSize=18&descColor=00BFFF&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&lines=🔧+Firmware+that+runs+at+the+edge+of+hardware...;📡+Sensor+fusion+%7C+IoT+%7C+Real-Time+Systems...;🤖+Robots+that+think.+Systems+that+respond.;⚡+ESP32+%7C+Arduino+%7C+Embedded+C%2B%2B...;🧠+Verilog+HDL+%7C+Digital+IC+Design+%7C+ModelSim...;🏆+1st+Place+IoT+Enigma+%7C+NPTEL+Elite+Certified...;🚀+13%2B+real-world+projects+and+counting..." />
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-aggarwal14)
