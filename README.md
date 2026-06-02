@@ -208,9 +208,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-aggarwal14)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=priyaaggarwal7911@gmail.com)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rj-rishabhjain) | **linkedin.com/in/rj-rishabhjain** |
+| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=priyaaggarwal0156@gmail.com) | **priyaaggarwal0156@gmail.com** |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919518186716) | **[+91 95181 86716](https://wa.me/919518186716)** |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rj-rishabhjain) | **github.com/rj-rishabhjain** |
 
 <br>
 
