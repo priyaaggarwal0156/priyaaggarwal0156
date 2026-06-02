@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-aggarwal14)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaaggarwal0156@gmail.com)
+[![Gmail](https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=priyaaggarwal7911@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/-%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyaaggarwal0156)
 
@@ -210,7 +210,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-aggarwal14)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaaggarwal0156@gmail.com)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=priyaaggarwal7911@gmail.com)
 
 <br>
 
