@@ -207,7 +207,6 @@
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-aggarwal14/) | **[linkedin.com/in/priyaaggarwal14](https://www.linkedin.com/in/priya-aggarwal14/)** |
 | :--- | :--- |
 | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=priyaaggarwal0156@gmail.com) | **[priyaaggarwal0156@gmail.com](mailto:priyaaggarwal0156@gmail.com)** |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919518186716) | **[+91 95181 86716](https://wa.me/919518186716)** |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyaaggarwal0156) | **[github.com/priyaaggarwal0156](https://github.com/priyaaggarwal0156)** |
 
 <br>
